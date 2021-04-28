@@ -24,7 +24,7 @@ Kart ve devreniz hazırlanıp bilgisayara bağlandıktan sonnra bilgisayarınız
 Kod, herhangi bir hata vermeksizin, daha önceden
 belirlenen kriterlere uygun çalıştı.
 -------------------
-KODU DERLEMEK:
+KODU DERLEME:
 ------------------
 Bilgisayarımızda kurulu olan energia ile kodu kolayca derleyebiliriz.
 
