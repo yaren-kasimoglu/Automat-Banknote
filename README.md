@@ -44,8 +44,8 @@ PROGRAMIN KULLANIMI
 -----------------------------
 En Az Sayıda Banknot Para Problemi projesi, program içersinde ürün ile ilgili olan ad bilgisi, stok sayısı ve fiyat bilgisi tanımlanmıştır.
 Daha sonra butonlar yardımı ile 5 TL, 10 TL, 20 TL, 50 TL, 100 TL para miktarı girdisi alınır, bitiş butonuna basılınca para girme işlemi bitirilir.
-Para girme işleminden sonra hizmet seçim işlemi yapılacaktır butonlara gore hangi hizmetin seçileceği belirlenecektir. 
-Kullanıcı yanlış seçim yaptığında Reset butonuna basabilir. Aksi taktirde otomat, kasada bulunan banknotlardan en azını kullanarak kullanıcıya banknot para üstü
+Para girme işleminden sonra hizmet seçim işlemi yapılacaktır butonlara gore hangi hizmetin seçileceği belirlenecektir. Kullanıcı makinede bulunan üst sınırı aşmadığı sürece istediği kadar hizmet seçimi yapabilir.
+Kullanıcı yanlış seçim yaptığında Reset butonuna basabilir. Aksi halde makine, kasada bulunan banknotlardan en azını kullanarak kullanıcıya banknot para üstü
 verecektir.Kasada yeterli para olmaması durumunda LCD ekranda "Kasada yeterli para yoktur" uyarısı görünecektir.
 
 Tüm bu işlemlerden sonra 1-4 (1 ve 4 dahil) arasında random sayı üretilecektir. Eğer  random sayı 2 olursa para sıkışma durumu olacaktır. Para sıkışma işleminde kırmızı led 
