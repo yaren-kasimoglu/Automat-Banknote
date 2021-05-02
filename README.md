@@ -55,11 +55,10 @@ tuşlanan hizmetler kalan hizmet miktarından düşmeyecektir. Tüm bu kontrolle
 Reset butonuna basılacaktır.
 
 
+![image](https://user-images.githubusercontent.com/70938435/116812610-3b94a080-ab58-11eb-8f65-14e1dba91cc2.png)
 
-https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/1.jpeg
+![image](https://user-images.githubusercontent.com/70938435/116812616-43ecdb80-ab58-11eb-9f3e-d1508a3a1569.png)
 
-https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/2.jpeg
+![image](https://user-images.githubusercontent.com/70938435/116812622-4a7b5300-ab58-11eb-86ae-1abc7efb4050.png)
 
-https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/3.jpeg
-
-https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/4%20(1).jpeg
+![image](https://user-images.githubusercontent.com/70938435/116812627-4e0eda00-ab58-11eb-98c8-0df7706f1fe8.png)
