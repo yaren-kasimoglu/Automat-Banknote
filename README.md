@@ -6,14 +6,14 @@ Bu readme.txt dosyası, En Az Sayıda Banknot Para Problemi projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 
-ORTAM:
+ORTAM
 -------------------
 Tiva-C-Series-TM4C123G çalıştırılabilecek ortam. 
 Energia kullanıldı.
 https://energia.nu
 -------------------
 
-PROJEYİ ÇALIŞTIRMA:
+PROJEYİ ÇALIŞTIRMA
 -------------------
 Proje paket içeriğini yukarıda görebilirsiniz.
 
@@ -24,7 +24,7 @@ Kart ve devreniz hazırlanıp bilgisayara bağlandıktan sonnra bilgisayarınız
 Kod, herhangi bir hata vermeksizin, daha önceden
 belirlenen kriterlere uygun çalıştı.
 -------------------
-KODU DERLEME:
+KODU DERLEME
 ------------------
 Bilgisayarımızda kurulu olan energia ile kodu kolayca derleyebiliriz.
 
@@ -53,3 +53,13 @@ yanacaktır, aksi durumda (random üretilen sayı 2 ye eşit değilse) problem o
 belirten yeşil led yanacaktır. Para sıkışma durumunda kullanıcıya para iadesi yapılacak ve 
 tuşlanan hizmetler kalan hizmet miktarından düşmeyecektir. Tüm bu kontrollerden sonra 
 Reset butonuna basılacaktır.
+
+
+
+https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/1.jpeg
+
+https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/2.jpeg
+
+https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/3.jpeg
+
+https://github.com/yaren-kasimoglu/Automat-Banknote/blob/main/Çıktılar/4%20(1).jpeg
